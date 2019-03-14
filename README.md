@@ -1,2 +1,1 @@
-# blog-scraping
-hacky, fast code to scrape the mit admissions blogs
+the code in this repository is not meant to be run: it's poorly commented and very hacky and ad-hoc. it's here mainly for people who were interested in how i implemented things.
